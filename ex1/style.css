@@ -15,7 +15,16 @@ body {
   input {
     outline: none !important;
   }
-  
+  input::placeholder{
+	  color:#b4adad;
+	  font-size:13px;
+	  letter-spacing:1px;
+	  font-size: 12px;
+      font-weight: 400;
+      font-family: "Montserrat", sans-serif;
+ 
+	  
+  }
   h1 {
     text-align: center;
     text-transform: uppercase;
@@ -193,7 +202,7 @@ body {
     outline: none;
     border: none;
     display: block;
-    padding: 10px 0;
+    padding: 18px 0;
     width: 100%;
     border-bottom: 1px solid #eee;
     color: #444;
