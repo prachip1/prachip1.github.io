@@ -6,8 +6,11 @@
 }
 
 body{
-    background:#3a3939!important;
+    background:#1F1F21!important;
     position: relative;
+}
+.subtitle{
+    text-align: left;
 }
 h3{
     text-align: center;
